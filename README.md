@@ -1,2 +1,2 @@
 # clone-tabnews
-used in a course
+course's repository
